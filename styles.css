@@ -70,3 +70,16 @@ h1 {
     border: 2px #e4e4e4 solid;
     color: #e4e4e4;
 }
+
+/*checkbox and label*/
+input[type="checkbox"] {
+    border: 1px solid #19509F;
+    vertical-align: bottom;
+}
+
+label {
+    font-size: 12px;
+    padding-left: 15px;
+    text-indent: -15px;
+    display: block;
+}
