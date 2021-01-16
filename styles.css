@@ -1,16 +1,30 @@
 body {
     font-family: "Montserrat", sans-serif;
-    background-color: #fefefe;
 }
 
 #signIn {
-    height: 400px;
-    width: 750px;
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    width: 75%;
 }
 
 #intro {
-    height: 400px;
-    width: 250px;
     background-color: #19509f;
     color: white;
+    position: absolute;
+    left: 0px;
+    width: 25%;
+}
+
+.form {
+    display: block;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+span {
+    font-size: 12px;
 }
