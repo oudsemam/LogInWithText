@@ -59,7 +59,14 @@ h1 {
     font-size: 20px;
 }
 
+/*input box with rounded corners*/
 .form {
     display: block;
     width: 250px;
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px #e4e4e4 solid;
+    color: #e4e4e4;
 }
