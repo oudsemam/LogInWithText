@@ -82,4 +82,18 @@ label {
     padding-left: 15px;
     text-indent: -15px;
     display: block;
+    margin-bottom: 15px;
+}
+
+/*buttons*/
+#login {
+    background-color: #19509f;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    width: 100px;
+    text-align: left;
+    margin-right: 40px;
+    padding: 8px;
+    font-size: 12px;
 }
