@@ -89,11 +89,34 @@ label {
 #login {
     background-color: #19509f;
     color: white;
-    border: none;
+    border: #19509f;
     border-radius: 25px;
-    width: 100px;
+    width: 120px;
     text-align: left;
     margin-right: 40px;
     padding: 8px;
     font-size: 12px;
+}
+
+#sign {
+    background-color: white;
+    color: #19509f;
+    border: 1px solid #19509f;
+    border-radius: 25px;
+    text-align: left;
+    width: 100px;
+    padding: 8px;
+    font-size: 12px;
+}
+
+img {
+    position: fixed;
+    z-index: 5px;
+    height: 60px;
+    background-color: white;
+    border-radius: 100px;
+    padding: 5px;
+    left: 283px;
+    top: 50%;
+    transform: translate(0, -50%);
 }
